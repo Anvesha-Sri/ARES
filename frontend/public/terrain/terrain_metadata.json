@@ -1,0 +1,32 @@
+{
+    "project": "ARES",
+    "planet": "Mars",
+    "study_area": "Gale Crater",
+    "source_product": "DTEEC_018854_1755_018920_1755_U01",
+    "source": "NASA HiRISE",
+    "crs": "PROJCS[\"EQUIRECTANGULAR MARS\",GEOGCS[\"GCS_MARS\",DATUM[\"D_MARS\",SPHEROID[\"MARS_localRadius\",3396190,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",0],PARAMETER[\"central_meridian\",137.4],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "width": 7075,
+    "height": 15040,
+    "pixel_spacing_m": [
+        1.0117630165416,
+        1.0117630165416
+    ],
+    "bounds_projected_m": [
+        -3782.981918849043,
+        -279454.0039838827,
+        3375.241423182778,
+        -264237.0882150971
+    ],
+    "elevation_min_m": -4509.42724609375,
+    "elevation_max_m": -4116.3349609375,
+    "texture_dimensions": [
+        1024,
+        2177
+    ],
+    "mesh_dimensions": [
+        256,
+        544
+    ],
+    "heightmap_encoding": "8-bit normalized elevation; black pixels represent NoData",
+    "heightmap_validity": "Use elevation.png or source DTM mask to distinguish NoData from minimum elevation"
+}

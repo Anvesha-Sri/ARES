@@ -1,0 +1,79 @@
+{
+    "file": "data/raw/DTEEC_018854_1755_018920_1755_U01.IMG",
+    "driver": "PDS",
+    "width": 7075,
+    "height": 15040,
+    "bands": 1,
+    "dtype": [
+        "float32"
+    ],
+    "nodata": -3.4028226550889045e+38,
+    "resolution": [
+        1.0117630165416,
+        1.0117630165416
+    ],
+    "bounds_in_raster_crs": [
+        -3782.981918849043,
+        -279454.0039838827,
+        3375.241423182778,
+        -264237.0882150971
+    ],
+    "crs": "PROJCS[\"EQUIRECTANGULAR MARS\",GEOGCS[\"GCS_MARS\",DATUM[\"D_MARS\",SPHEROID[\"MARS_localRadius\",3396190,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",0],PARAMETER[\"central_meridian\",137.4],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "crs_wkt": "PROJCS[\"EQUIRECTANGULAR MARS\",GEOGCS[\"GCS_MARS\",DATUM[\"D_MARS\",SPHEROID[\"MARS_localRadius\",3396190,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",0],PARAMETER[\"central_meridian\",137.4],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+    "transform": [
+        1.0117630165416,
+        0.0,
+        -3782.981918849043,
+        0.0,
+        -1.0117630165416,
+        -264237.0882150971,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "corners_in_raster_crs": {
+        "upper_left": {
+            "x": -3782.981918849043,
+            "y": -264237.0882150971
+        },
+        "upper_right": {
+            "x": 3375.241423182778,
+            "y": -264237.0882150971
+        },
+        "lower_left": {
+            "x": -3782.981918849043,
+            "y": -279454.0039838827
+        },
+        "lower_right": {
+            "x": 3375.241423182778,
+            "y": -279454.0039838827
+        },
+        "center": {
+            "x": -203.87024783313245,
+            "y": -271845.5460994899
+        }
+    },
+    "valid_pixel_count": 77904954,
+    "invalid_pixel_count": 28503046,
+    "raster_minimum": -4509.42724609375,
+    "raster_maximum": -4116.3349609375,
+    "dataset_tags": {
+        "FILTER_NAME": "",
+        "DATA_SET_ID": "\"MRO-M-HIRISE-5-DTM-V1.0\"",
+        "PRODUCT_ID": "\"DTEEC_018854_1755_018920_1755_U01\"",
+        "PRODUCER_INSTITUTION_NAME": "\"UNIVERSITY OF ARIZONA\"",
+        "PRODUCT_TYPE": "",
+        "MISSION_NAME": "",
+        "SPACECRAFT_NAME": "",
+        "INSTRUMENT_NAME": "\"HIGH RESOLUTION IMAGING SCIENCE EXPERIMENT\"",
+        "INSTRUMENT_ID": "\"HIRISE\"",
+        "TARGET_NAME": "\"MARS\"",
+        "CENTER_FILTER_WAVELENGTH": "",
+        "BANDWIDTH": "",
+        "PRODUCT_CREATION_TIME": "",
+        "START_TIME": "",
+        "STOP_TIME": "",
+        "NOTE": ""
+    },
+    "band_tags": {}
+}
