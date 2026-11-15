@@ -22,7 +22,6 @@ An interactive planetary terrain intelligence platform powered by real NASA HiRI
 Experience the complete workflow — from exploring the Gale Crater terrain to identifying hazards and generating terrain-aware rover routes.
 
 ▶ **[WATCH THE ARES PROJECT DEMO](frontend/src/assets/CTRLX.mp4)**
-https://github.com/Anvesha-Sri/ARES/blob/1f03c9018b1fc1e057d0529cefd5b19d2c2759c0/frontend/src/assets/CTRLX.mp4
 
 
 ---
